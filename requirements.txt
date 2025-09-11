@@ -1,0 +1,15 @@
+pydantic==2.10.5
+dst-tidal --trusted-host nexus.dst.cathayholdings.internal.com.tw -i http://nexus.dst.cathayholdings.internal.com.tw/repository/dst-pypi/simple
+keyring
+keyrings.google-artifactregistry-auth
+nutrlink==0.4.0 --extra-index-url=https://asia-east1-python.pkg.dev/dst-dev2021/dst-pypi/simple/
+numpy
+pandas
+matplotlib
+openpyxl
+scikit-learn
+lxml
+openpyxl
+plotly
+empyrical
+pyfolio
